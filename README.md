@@ -33,8 +33,7 @@
 ## 실행 방법
 ```bash
 pip install psutil matplotlib
-python processer.py
-```
+
 
 ## 기타
 - cross-platform 가능 (Windows, Mac, Linux)
